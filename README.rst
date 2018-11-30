@@ -52,24 +52,6 @@ Placeholder
 .. include:: CONTRIBUTING.rst
 
 
-PyElucidate uses Python 3.x. No backwards compatibility with Python 2.x is provided.
-
-Feel free to raise Github issues.
-
-If you find an issue you are interested in fixing you can:
-
-
-* make sure the issue is small and atomic
-* Fork the repository
-* Clone the repository to your local machine
-* Create a new branch for your fix using `git checkout -b branch-name-here`.
-* Fix the issue.
-* Commit and push the code to your remote repository.
-* Submit a pull request to the `pyelucidate` repository, with a description of your fix and the issue number.
-* The PR will be reviewed by the maintainer_ and either merge the PR or response with comments.
-
-.. _maintainer: http://github.com/mattmcgrattan
-
 License
 -------
 
